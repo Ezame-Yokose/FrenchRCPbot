@@ -1,0 +1,2 @@
+# FrenchRCPbot
+クソbot
